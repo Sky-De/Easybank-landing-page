@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700&display=swap');
+
+// font-family: 'Public Sans', sans-serif; 300/400/700
+
+
+
+$DarkBlue: hsl(233, 26%, 24%);
+$LimeGreen: hsl(136, 65%, 51%);
+$BrightCyan: hsl(192, 70%, 51%);
+// ### Neutral
+$GrayishBlue: hsl(233, 8%, 62%);
+$LightGrayishBlue: hsl(220, 16%, 96%);
+$VeryLightGray: hsl(0, 0%, 98%);
+$White: hsl(0, 0%, 100%);
+
+
+//font weight-----------------
+@mixin light {
+    font-weight: 300;
+}
+@mixin regular {
+    font-weight: 400;
+}
+@mixin bold {
+    font-weight: 700;
+}
+
+@mixin  b {
+    border: 1px solid red;
+}
+//paddings----------------------------
+@mixin pxy {
+    padding: 1.3rem;
+}
+
+@mixin px {
+    padding: 0 1.3rem;
+}
+//flex------------------------------
+@mixin  flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+// media-q--------------------
+@mixin min-1000 {
+    @media screen and (min-width:1000px) {
+        @content
+    }
+}
