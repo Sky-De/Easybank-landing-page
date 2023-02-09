@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [CLICK HERE](https://www.frontendmentor.io/solutions/easybank-landing-pagerespinsive-0VatpGtvA)
-- Live Site URL: [CLICK HERE](https://sky-1991-sia.github.io/Easybank-landing-page/)
+- Live Site URL: [CLICK HERE](https://easybank-landing-pagerespinsive.netlify.app/)
 
 ### Built with
 
