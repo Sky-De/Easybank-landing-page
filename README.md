@@ -24,9 +24,15 @@ Users should be able to:
 
 ### Preview-mobile
 
+![chrome-capture-2023-8-30-min](https://github.com/Sky-De/Easybank-landing-page/assets/79264045/6ee800e6-f0ca-434c-abb5-f51b605d5b78)
+
+
 ![mobile](https://user-images.githubusercontent.com/79264045/144243276-b65a02c0-c273-4f42-b369-daa0cb46dfc8.jpg)
 
 ### Preview-desktop
+
+![chrome-capture-2023-8-30 (1)-min](https://github.com/Sky-De/Easybank-landing-page/assets/79264045/25f00d0b-8ac5-4e8d-8fee-f3c7d751b93c)
+
 
 ![desktop](https://user-images.githubusercontent.com/79264045/144243356-9e29682b-0532-44ce-a3c4-360470daa43d.jpg)
 
